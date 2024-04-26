@@ -1,0 +1,51 @@
+Name, Department        ,Role Status
+ Sales Associate                     , Sales             ,Open
+ Sales Director                       , Sales             ,Filled
+ Business Development Representative , Sales             ,Filled
+ Account Manager                     , Sales             ,Open
+ Territory Sales Representative      , Sales             ,Open
+ Sales Analyst                       , Sales             ,Filled
+ Field Sales Representative          , Sales             ,Open
+ Regional Sales Manager              , Sales             ,Open
+ Inside Sales Representative         , Sales             ,Open
+ Channel Sales Manager               , Sales             ,Filled
+ Marketing Coordinator               , Marketing         ,Open
+ Marketing Manager                   , Marketing         ,Open
+ Product Marketing Manager           , Marketing         ,Open
+ Content Creator                     , Marketing         ,Filled
+ Social Media Specialist             , Marketing         ,Open
+ SEO Specialist                      , Marketing         ,Open
+ Marketing Analyst                   , Marketing         ,Open
+ Brand Manager                       , Marketing         ,Open
+ Digital Marketing Specialist        , Marketing         ,Open
+ Event Coordinator                   , Marketing         ,Filled
+ Financial Analyst                   , Finance           ,Open
+ Chief Financial Officer (CFO)       , Finance           ,Open
+ Accounts Payable Clerk              , Finance           ,Open
+ Accounts Receivable Clerk           , Finance           ,Open
+ Bookkeeper                          , Finance           ,Open
+ Tax Specialist                      , Finance           ,Open
+ Treasury Analyst                    , Finance           ,Filled
+ Financial Planner                   , Finance           ,Open
+ Finance Manager                     , Finance           ,Open
+ Cost Analyst                        , Finance           ,Open
+ Operations Manager                  , Operations        ,Open
+ Operations Analyst                  , Operations        ,Open
+ Logistics Coordinator               , Operations        ,Open
+ Supply Chain Manager                , Operations        ,Open
+ Warehouse Supervisor                , Operations        ,Open
+ Production Manager                  , Operations        ,Open
+ Quality Assurance Manager           , Operations        ,Open
+ Inventory Specialist                , Operations        ,Open
+ Plant Manager                       , Operations        ,Open
+ Process Improvement Specialist      , Operations        ,Open
+ Customer Service Representative     , Customer Service  ,Open
+ Customer Service Manager            , Customer Service  ,Open
+ Help Desk Specialist                , Customer Service  ,Open
+ Account Coordinator                 , Customer Service  ,Open
+ Customer Support Technician         , Customer Service  ,Open
+ Call Center Agent                   , Customer Service  ,Open
+ Client Relationship Manager         , Customer Service  ,Open
+ Customer Experience Manager         , Customer Service  ,Open
+ Technical Support Specialist        , Customer Service  ,Open
+ Customer Service Trainer            , Customer Service  ,Open

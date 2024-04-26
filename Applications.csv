@@ -1,0 +1,22 @@
+Role,Candidate,Interview Start Time,Interview Outcome,Offer Made?
+Account Manager, maria@demo.com         ,5/25/2024 8:00 AM,Successful,Yes
+Account Manager, ahmed@demo.com         ,5/25/2024 9:00 AM,Unsuccessful,No
+Account Manager, emily@demo.com         ,5/26/2024 8:00 AM,Unsuccessful,No
+Account Manager, takashi@demo.com       ,5/26/2024 10:00 AM,Unsuccessful,No
+Account Manager, olumide@demo.com       ,5/26/2024 11:00 AM,Unsuccessful,No
+Account Manager, wei@demo.com           ,5/27/2024 8:00 AM,Unsuccessful,No
+Account Manager, sofia@demo.com         ,5/27/2024 9:00 AM,Unsuccessful,No
+Account Manager, carlos@demo.com        ,5/27/2024 10:00 AM,Unsuccessful,No
+Account Manager, aisha@demo.com         ,5/27/2024 11:00 AM,Unsuccessful,No
+Channel Sales Manager, maria@demo.com         ,,,
+Channel Sales Manager, emily@demo.com         ,,,
+Content Creator, emily@demo.com         ,,,
+Content Creator, priya@demo.com         ,,,
+Content Creator, james@demo.com         ,,,
+Content Creator, amelie@demo.com        ,,,
+Accounts Payable Clerk, naomi@demo.com         ,5/20/2024 8:00 AM,Successful,Yes
+Accounts Payable Clerk, dmitry@demo.com        ,5/21/2024 8:00 AM,Unsuccessful,No
+Accounts Payable Clerk, fatima@demo.com        ,5/22/2024 8:00 AM,Unsuccessful,No
+Accounts Payable Clerk, ryan@demo.com          ,5/22/2024 10:00 AM,Unsuccessful,No
+Accounts Payable Clerk, jiyeon@demo.com        ,5/22/2024 11:00 AM,Unsuccessful,No
+Accounts Payable Clerk,juan@demo.com,5/20/2024 8:00 AM,Unsuccessful,No
